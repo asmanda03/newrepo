@@ -1,0 +1,30 @@
+h1{
+    text-align:center;
+    color:hotpink;
+}
+
+body{
+    background-color:lavenderblush;
+}
+
+
+.meme{
+    height:300px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.textBottom{
+    position: absolute;
+    bottom: 5%;
+}
+
+.texttop{
+
+}
+
+.button{
+    position: absolute;
+    right: auto;
+}
